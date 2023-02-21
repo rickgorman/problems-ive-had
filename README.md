@@ -24,3 +24,8 @@ A collection of problems I've run into, some with solutions.
       3. if the user say yes, then the user will be prompted to press a key combination with the 'alt' modifier, such as 'alt-a' or 'alt-5'. the user will then be notified that this choice has been remembered, which it will be. the ux described here will then go away.
       4. additionally, when the user presses the alt key on its own, small hover texts will appear over each visual element that has had an onclick handler set by this function.
       5. additionally, when the user presses a keyboard shortcut that was set earlier, such as 'alt-a', the element that the keyboard shortcut corresponds to will be triggered by a simulated 'onclick' event.
+
+### Rails
+
+* I want to know how many things are in a collection and I don't want to remember how 3 different methods work.
+  * Use [#size](https://stackoverflow.com/questions/6083219/activerecord-size-vs-count)
