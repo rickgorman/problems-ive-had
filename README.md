@@ -42,3 +42,8 @@ A collection of problems I've run into, some with solutions.
 
 * I want boots that will stand the [test of time](https://www.youtube.com/watch?v=Qm4BeXgM8ZM).
   * [Redwings](https://www.redwingshoes.com/work/mens/?grid=true)
+
+## Keto
+
+* I want mac and cheese but I can't have carbs.
+  * [Chicken gnocchi and cheese](https://www.youtube.com/watch?v=R_yMyR946Yk)
