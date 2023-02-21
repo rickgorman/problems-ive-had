@@ -25,7 +25,10 @@ A collection of problems I've run into, some with solutions.
       4. additionally, when the user presses the alt key on its own, small hover texts will appear over each visual element that has had an onclick handler set by this function.
       5. additionally, when the user presses a keyboard shortcut that was set earlier, such as 'alt-a', the element that the keyboard shortcut corresponds to will be triggered by a simulated 'onclick' event.
 
-### Rails
+* I want to programatially hide the cursor.
+  * [Pointer Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+
+## Rails
 
 * I want to know how many things are in a collection and I don't want to remember how 3 different methods work.
   * Use [#size](https://stackoverflow.com/questions/6083219/activerecord-size-vs-count)
