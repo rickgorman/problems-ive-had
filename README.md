@@ -32,3 +32,8 @@ A collection of problems I've run into, some with solutions.
 
 * I want to know how many things are in a collection and I don't want to remember how 3 different methods work.
   * Use [#size](https://stackoverflow.com/questions/6083219/activerecord-size-vs-count)
+
+## Design
+
+* I want a simple set of design rules to work with.
+  * [Safe Rules](https://anthonyhobday.com/sideprojects/saferules/)
