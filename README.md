@@ -8,6 +8,11 @@ A collection of problems I've run into, some with solutions.
 * I want to know what different terminal fonts looks like.
   * [app.programmingfonts.org](https://app.programmingfonts.org/#camingocode)
 
+### Shell
+
+* I want to run a command based on the exit code of the previous command.
+  * [if then syntax](https://stackoverflow.com/a/26675771)
+
 ### Package management
 
 * I want a reproducible set of brew packages.
