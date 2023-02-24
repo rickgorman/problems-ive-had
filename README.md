@@ -18,6 +18,12 @@ A collection of problems I've run into, some with solutions.
 * I want a reproducible set of brew packages.
   * [brew bundle dump](https://tomlankhorst.nl/brew-bundle-restore-backup/)
 
+## Notifications
+
+* I want to know when someone on my team needs a code review.
+  * [github slack integration](https://github.com/integrations/slack#subscribing-and-unsubscribing)
+  * `/github subscribe OrganzationName/RepoName pulls`
+
 ## Browser
 
 * I want to use keyboard navigation whenever possible.
