@@ -45,6 +45,8 @@ A collection of problems I've run into, some with solutions.
   * Use [#size](https://stackoverflow.com/questions/6083219/activerecord-size-vs-count)
 * I want to quickly navigate through things on a page via a command palette.
   * [Ninja Keys](https://www.youtube.com/watch?v=9pHxFkQ0JhU)
+* I want to know which code paths are used most frequently.
+  * [Coverband](https://github.com/danmayer/coverband)
 
 ## Design
 
