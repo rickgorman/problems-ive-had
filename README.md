@@ -47,6 +47,8 @@ A collection of problems I've run into, some with solutions.
   * [Ninja Keys](https://www.youtube.com/watch?v=9pHxFkQ0JhU)
 * I want to know which code paths are used most frequently.
   * [Coverband](https://github.com/danmayer/coverband)
+* I have different roles accessing a controller action and I want to scope access to resources accordingly.
+  * [Pundit policy_scope](https://github.com/varvet/pundit#scopes)
 
 ## Design
 
