@@ -13,7 +13,7 @@ A collection of problems I've run into, some with solutions.
 * I want to run a command based on the exit code of the previous command.
   * [if then syntax](https://stackoverflow.com/a/26675771)
 
-### CLI tooling
+### CLI tools
 
 * I want to see realtime performance metrics for my Apple Silicon laptop.
   * [asitop](https://github.com/tlkh/asitop)
