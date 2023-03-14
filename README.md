@@ -23,6 +23,11 @@ A collection of problems I've run into, some with solutions.
 * I want a reproducible set of brew packages.
   * [brew bundle dump](https://tomlankhorst.nl/brew-bundle-restore-backup/)
 
+### Git
+
+* I want fzf to help me pick a branch to checkout.
+  * see [dotfiles](https://github.com/rickgorman/dotfiles)
+
 ## Notifications
 
 * I want to know when someone on my team needs a code review.
