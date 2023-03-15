@@ -64,7 +64,7 @@ A collection of problems I've run into, some with solutions.
 
 ### RSpec
 * I want to see the entire error message, no matter how long it is.
-  * Adjust the [maximum message length](https://github.com/rspec/rspec-expectations/issues/991)
+  * Adjust the [maximum message length]([https://github.com/rspec/rspec-expectations/issues/991](https://github.com/rspec/rspec-expectations/issues/991#issuecomment-571644505))
 
 ## MacOS
 
