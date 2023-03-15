@@ -62,6 +62,10 @@ A collection of problems I've run into, some with solutions.
 * I want to prevent N+1's from happening
   * [enabled strict_loading](https://www.bigbinary.com/blog/rails-6-1-adds-strict_loading-to-warn-lazy-loading-associations)
 
+### RSpec
+* I want to see the entire error message, no matter how long it is.
+  * Adjust the [maximum message length](https://github.com/rspec/rspec-expectations/issues/991)
+
 ## MacOS
 
 * I want super-fast access to a set of files (for instance, to run a test suite's db from).
