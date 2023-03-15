@@ -62,6 +62,11 @@ A collection of problems I've run into, some with solutions.
 * I want to prevent N+1's from happening
   * [enabled strict_loading](https://www.bigbinary.com/blog/rails-6-1-adds-strict_loading-to-warn-lazy-loading-associations)
 
+## MacOS
+
+* I want super-fast access to a set of files (for instance, to run a test suite's db from).
+  * Use a [ramdisk](https://gist.github.com/htr3n/344f06ba2bb20b1056d7d5570fe7f596)
+
 ## Design
 
 * I want a simple set of design rules to work with.
