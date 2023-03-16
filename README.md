@@ -61,6 +61,8 @@ A collection of problems I've run into, some with solutions.
   * [Pundit policy_scope](https://github.com/varvet/pundit#scopes)
 * I want to prevent N+1's from happening
   * [enabled strict_loading](https://www.bigbinary.com/blog/rails-6-1-adds-strict_loading-to-warn-lazy-loading-associations)
+* I want to run a bunch of queries in the same action, some potentially more than once, but I don't want to run the same query twice.
+  * [rails query cache](https://www.mendelowski.com/docs/ruby/rails-query-cache/) does that by default
 
 ### RSpec
 * I want to see the entire error message, no matter how long it is.
