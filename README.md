@@ -12,6 +12,8 @@ A collection of problems I've run into, some with solutions.
 
 * I want to run a command based on the exit code of the previous command.
   * [if then syntax](https://stackoverflow.com/a/26675771)
+* I want my shell history available across multiple terminal sessions at the same time.
+  * [histappend](https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html)
 
 ### CLI tools
 
