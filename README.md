@@ -50,6 +50,8 @@ A collection of problems I've run into, some with solutions.
 
 * I want to programatially hide the cursor.
   * [Pointer Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+* I want to edit any random webpage in-line.
+  * [document.DesignMode = "on"](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode)
 
 ## Rails
 
