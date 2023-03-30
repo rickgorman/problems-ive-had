@@ -52,6 +52,8 @@ A collection of problems I've run into, some with solutions.
   * [Pointer Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
 * I want to edit any random webpage in-line.
   * [document.DesignMode = "on"](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode)
+* I want to access the element I just inspected.
+  * type [$0](https://www.reddit.com/r/webdev/comments/dwb0kb/you_can_access_an_element_that_has_been_inspected/) in the console
 
 ## Rails
 
