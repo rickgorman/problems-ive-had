@@ -55,6 +55,16 @@ A collection of problems I've run into, some with solutions.
 * I want to access the element I just inspected.
   * type [$0](https://www.reddit.com/r/webdev/comments/dwb0kb/you_can_access_an_element_that_has_been_inspected/) in the console
 
+### Css
+
+* I want to know how all the `flex justify-content` options work.
+  * [cheat sheet](https://i.imgur.com/PhzeOKq.gif) and [original](https://www.reddit.com/r/webdev/comments/10ffo7a/css_flex_for_speed_learners/)
+* I want a reference for css flex, grid, and selection.
+  * [cheat sheet](https://github.com/eludadev/css-docs)
+* I want a reference for some of the more obscure parts of flex.
+  * [cheat sheet](https://i.redd.it/vd9dc7wfk9471.png) and [original](https://www.reddit.com/r/webdev/comments/nvzhi0/flexbox_css_cheat_sheet/)
+* I want to use a frosted class effect.
+  * [reference](https://www.reddit.com/r/webdev/comments/u5m4ue/frosted_class_effect_in_css_one_of_my_favorites/)
 ## Rails
 
 * I want to know how many things are in a collection and I don't want to remember how 3 different methods work.
