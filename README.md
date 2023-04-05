@@ -83,6 +83,8 @@ A collection of problems I've run into, some with solutions.
 ### RSpec
 * I want to see the entire error message, no matter how long it is.
   * Adjust the [maximum message length](https://github.com/rspec/rspec-expectations/issues/991#issuecomment-571644505)
+* I want a general set of testing guidelines.
+  * [thoughtbot guide](https://thoughtbot.com/blog/how-we-test-rails-applications)
 
 ## MacOS
 
