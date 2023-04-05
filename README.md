@@ -63,7 +63,7 @@ A collection of problems I've run into, some with solutions.
   * [cheat sheet](https://github.com/eludadev/css-docs)
 * I want a reference for some of the more obscure parts of flex.
   * [cheat sheet](https://i.redd.it/vd9dc7wfk9471.png) and [original](https://www.reddit.com/r/webdev/comments/nvzhi0/flexbox_css_cheat_sheet/)
-* I want to use a frosted class effect.
+* I want to use a frosted glass effect.
   * [reference](https://www.reddit.com/r/webdev/comments/u5m4ue/frosted_class_effect_in_css_one_of_my_favorites/)
 ## Rails
 
