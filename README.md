@@ -77,7 +77,7 @@ A collection of problems I've run into, some with solutions.
   * [Pundit policy_scope](https://github.com/varvet/pundit#scopes)
 * I want to guard against N+1's
   * On a per-spec basis, use [prosopite](https://github.com/charkost/prosopite)
-  * For the entire app, use [strict_loading!](https://github.com/rails/rails/pull/37400) [blog](https://www.bigbinary.com/blog/rails-6-1-adds-strict_loading-to-warn-lazy-loading-associations)
+  * For the entire app, use [strict_loading!](https://github.com/rails/rails/pull/37400) - [blog article](https://www.bigbinary.com/blog/rails-6-1-adds-strict_loading-to-warn-lazy-loading-associations)
 * I want to run a bunch of queries in the same action, some potentially more than once, but I don't want to run the same query twice.
   * [rails query cache](https://www.mendelowski.com/docs/ruby/rails-query-cache/) does that by default
 
