@@ -86,6 +86,8 @@ A collection of problems I've run into, some with solutions.
   * Adjust the [maximum message length](https://github.com/rspec/rspec-expectations/issues/991#issuecomment-571644505)
 * I want a general set of testing guidelines.
   * [thoughtbot guide](https://thoughtbot.com/blog/how-we-test-rails-applications)
+* I want a guide for testing ActiveJob.
+  * [ChuckJHardy's gist](https://gist.github.com/ChuckJHardy/10f54fc567ba3bd4d6f1)
 
 ## MacOS
 
