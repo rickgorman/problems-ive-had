@@ -39,7 +39,7 @@ A collection of problems I've run into, some with solutions.
 ## Browser
 
 * I want to use keyboard navigation whenever possible.
-    Unfinished GPT prompt:
+    Unfinished LLM prompt:
       
       0. build a function that will do the following:
       1. when a user hovers over an element with an onclick handler, the element will be visually highlighted in some way
@@ -61,6 +61,8 @@ A collection of problems I've run into, some with solutions.
   * [cheat sheet](https://i.imgur.com/PhzeOKq.gif) and [original](https://www.reddit.com/r/webdev/comments/10ffo7a/css_flex_for_speed_learners/)
 * I want a reference for css flex, grid, and selection.
   * [cheat sheet](https://github.com/eludadev/css-docs)
+  * [flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * I want a reference for some of the more obscure parts of flex.
   * [cheat sheet](https://i.redd.it/vd9dc7wfk9471.png) and [original](https://www.reddit.com/r/webdev/comments/nvzhi0/flexbox_css_cheat_sheet/)
 * I want to use a frosted glass effect.
