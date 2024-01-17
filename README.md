@@ -81,7 +81,7 @@ A collection of problems I've run into, some with solutions.
   * On a per-spec basis, use [prosopite](https://github.com/charkost/prosopite)
   * For the entire app, use [strict_loading!](https://github.com/rails/rails/pull/37400) - [blog article](https://www.bigbinary.com/blog/rails-6-1-adds-strict_loading-to-warn-lazy-loading-associations)
 * I want to run a bunch of queries in the same action, some potentially more than once, but I don't want to run the same query twice.
-  * [rails query cache](https://www.mendelowski.com/docs/ruby/rails-query-cache/) does that by default
+  * [rails query cache](https://web.archive.org/web/20230602162131/https://www.mendelowski.com/docs/ruby/rails-query-cache/) does that by default
 
 ### RSpec
 * I want to see the entire error message, no matter how long it is.
