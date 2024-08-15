@@ -92,6 +92,8 @@ A collection of problems I've run into, some with solutions.
   * [thoughtbot guide](https://thoughtbot.com/blog/how-we-test-rails-applications)
 * I want a guide for testing ActiveJob.
   * [ChuckJHardy's gist](https://gist.github.com/ChuckJHardy/10f54fc567ba3bd4d6f1)
+* I want to speed up a slow test suite
+  * Start with Evil Martian's [TestProf](https://test-prof.evilmartians.io/)
 
 ## MacOS
 
