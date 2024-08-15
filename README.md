@@ -29,6 +29,8 @@ A collection of problems I've run into, some with solutions.
 
 * I want fzf to help me pick a branch to checkout.
   * see [dotfiles](https://github.com/rickgorman/dotfiles)
+* I accidentally force-pushed into a branch that others are working on.
+  * Force-push again [from the previous head pointer.](https://evilmartians.com/chronicles/git-push---force-and-how-to-deal-with-it)
 
 ## Notifications
 
