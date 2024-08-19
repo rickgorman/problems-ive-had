@@ -32,6 +32,13 @@ A collection of problems I've run into, some with solutions.
 * I accidentally force-pushed into a branch that others are working on.
   * Force-push again [from the previous head pointer.](https://evilmartians.com/chronicles/git-push---force-and-how-to-deal-with-it)
 
+## AI Tools
+
+### Copilot
+
+* I want to understand how Copilot fills its context window.
+  * [Lots of ways](https://code.visualstudio.com/docs/copilot/prompt-crafting#_open-files) including current file contents, open tabs, imports, top-level file comments, etc.
+
 ## Notifications
 
 * I want to know when someone on my team needs a code review.
